@@ -1,0 +1,22 @@
+[
+  {
+    "marca": "Ford",
+    "modelo": "Mustang",
+    "año": 2022
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Camaro",
+    "año": 2021
+  },
+  {
+    "marca": "Dodge",
+    "modelo": "Challenger",
+    "año": 2023
+  },
+  {
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "año": 2024
+  }
+]
